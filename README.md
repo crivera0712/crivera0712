@@ -1,14 +1,7 @@
-### Hi there 👋
+# Hi, I'm Christian Rivera
 
+Software engineer focused on backend systems, building applications with Java, Spring Boot, and relational databases.
 
-**crivera0712/crivera0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently completed a post-baccalaureate diploma in Computer Science and currently work on software projects in healthcare and genomics domains.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my BS in CS 
-- 🌱 I’m currently learning C++/Web Development
-- 👯 I’m looking to collaborate on any projects
-- 📫 How to reach me: crivera15@mail.sfsu.edu
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I ride bikes
-
+I'm especially interested in backend development, APIs, and data-driven systems.
